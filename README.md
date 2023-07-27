@@ -1,1 +1,1 @@
-Beginning with C
+More pointers ans strings
