@@ -19,7 +19,7 @@ void close_elf(int elf);
 
 /**
  * check_elf - Checks if a file is an ELF file.
- * @e_ident: A pointer to an array containing the ELF magic numbers.
+ * @test: A pointer to an array containing the ELF magic numbers.
  *
  * Description: If the file is not an ELF file - exit code 98.
  */
